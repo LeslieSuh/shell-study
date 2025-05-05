@@ -1,4 +1,6 @@
 #!/bin/sh/
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 cat readme
-#level 0 -> level 1
+exit
+ssh bandit1@bandit.labs.overthewire.org -p 2220
+# ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
